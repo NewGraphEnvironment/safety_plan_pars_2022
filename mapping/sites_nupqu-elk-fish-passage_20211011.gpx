@@ -1,0 +1,440 @@
+<?xml version="1.0"?>
+<gpx version="1.1" creator="GDAL 3.2.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ogr="http://osgeo.org/gdal" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata><bounds minlat="49.004671900759249" minlon="-115.094510708559450" maxlat="50.458352218220639" maxlon="-114.295648527119640"/></metadata>              
+<wpt lat="49.628474204437552" lon="-114.795484904536224">
+  <name>50240 - 2020_planning-082G.119-mod - NA</name>
+  <desc>sub5 0.11 co_s 0 co_r 0 co_ha NA  cw 2.3 Comments indicate partially embedded and backwatered.  Other comments indicate good candidate for bridge.</desc>
+</wpt>
+<wpt lat="49.119411133342759" lon="-114.507275314807984">
+  <name>50081 - 2020_planning-082G.104-mod - NA</name>
+  <desc>sub5 0 co_s 0 co_r 0 co_ha NA  cw 5 Large stream.  Potential barrier.</desc>
+</wpt>
+<wpt lat="49.110278570122041" lon="-114.677798630215605">
+  <name>50101 - 2020_planning-082G.104-mod - NA</name>
+  <desc>sub5 0 co_s 0 co_r 0 co_ha NA  cw 3.4 Larger stream with good flow.  Gradients model as &gt;15 downstream so naturally occuring barriers are fairly likely.</desc>
+</wpt>
+<wpt lat="50.279842929898095" lon="-114.852686328838018">
+  <name>1004606284 - cwf-082J.108-NA - Fording River</name>
+  <desc>sub5 2.48 co_s 0 co_r 0 co_ha NA  cw 4.73 Ford (likely).  Need permission?</desc>
+</wpt>
+<wpt lat="49.039592097377849" lon="-114.703340630680188">
+  <name>1004602869 - 2020_planning-082G.104-high - Couldrey Creek</name>
+  <desc>sub5 1.05 co_s 0 co_r 0 co_ha NA  cw 6.51 Suspect deactivation from review of aerial imagey. Large potential habitat gain.</desc>
+</wpt>
+<wpt lat="49.261391776488665" lon="-114.879205990192531">
+  <name>1004601984 - cwf-082G.108-NA - Lodgepole trib</name>
+  <desc>sub5 0.22 co_s 0 co_r 0 co_ha NA  cw 3.66 Could be a decent candidate if not dry</desc>
+</wpt>
+<wpt lat="49.688363626040143" lon="-114.813962676585504">
+  <name>50273 - 2020_planning-082G.118-mod - Robert Creek</name>
+  <desc>sub5 0 co_s 0 co_r 0 co_ha NA  cw 2.4 Dry channel. Small stream.</desc>
+</wpt>
+<wpt lat="49.921152961338095" lon="-114.91018708828156">
+  <name>1024735049 - cwf-082G.123-NA - Weigert Creek</name>
+  <desc>sub5 6.61 co_s 0 co_r 0 co_ha NA  cw 7.46 Ford (assessed last year)</desc>
+</wpt>
+<wpt lat="50.238784848237174" lon="-114.828796971188055">
+  <name>1004603413 - cwf-082J.108-NA - Henretta Creek</name>
+  <desc>sub5 1.47 co_s 0 co_r 0 co_ha NA  cw 5.5 Ford - walk in</desc>
+</wpt>
+<wpt lat="49.850547221662616" lon="-114.751121149161008">
+  <name>62426 - 2020_field-082G.124-NA - Grave Creek</name>
+  <desc>sub5 0 co_s 0 co_r 0 co_ha NA  cw 4.9 NA</desc>
+</wpt>
+<wpt lat="50.067429280543962" lon="-114.921801550697211">
+  <name>197527 - cwf-082J.103-NA - Crossing Creek</name>
+  <desc>sub5 4.99 co_s 0 co_r 0 co_ha NA  cw 6.4 Dry last year.  Lots of survey sites and no fish.  Not likely of any value!</desc>
+</wpt>
+<wpt lat="50.341615386429737" lon="-114.924357274198115">
+  <name>62265 - 2020_planning-082J.108-mod - NA</name>
+  <desc>sub5 0 co_s 0 co_r 0 co_ha NA  cw 0.9 Splits upstream and gets very steep.  Grainger indicates &quot;Good potential for fix. Rearing habitat upstream.&quot;</desc>
+</wpt>
+<wpt lat="50.233095310112795" lon="-114.876230274127082">
+  <name>1004603334 - cwf-082J.108-NA - Fording River</name>
+  <desc>sub5 2.81 co_s 0 co_r 0 co_ha NA  cw 6 Ford - in the middle of the mines</desc>
+</wpt>
+<wpt lat="49.414723707495263" lon="-114.909729893262011">
+  <name>1004602163 - cwf-082G.113-NA - Morrissey Creek</name>
+  <desc>sub5 3.6 co_s 0 co_r 0 co_ha NA  cw 5.36 Above a huge falls</desc>
+</wpt>
+<wpt lat="49.82157119831647" lon="-114.986055311888038">
+  <name>1004606545 - cwf-082G.123-high - Cummings Creek</name>
+  <desc>sub5 4.87 co_s 0 co_r 0 co_ha NA  cw 6.48 Keen.  Need quad?</desc>
+</wpt>
+<wpt lat="49.539166376055292" lon="-114.798968985407129">
+  <name>1004607003 - 2020_planning-082G.114-mod - NA</name>
+  <desc>sub5 0.01 co_s 0 co_r 0 co_ha NA  cw 2.4 Appears to be PSCIS 50225.</desc>
+</wpt>
+<wpt lat="49.613861815309001" lon="-114.863373425249563">
+  <name>1004602218 - 2020_planning-082G.118-high - NA</name>
+  <desc>sub5 0.38 co_s 0 co_r 0 co_ha NA  cw 2.83 Large amount of potential habitat but suspect deactivated road.  Review before surveying.</desc>
+</wpt>
+<wpt lat="49.283036463398183" lon="-114.7094419422844">
+  <name>50060 - 2020_planning-082G.109-mod - Harvey Creek</name>
+  <desc>sub5 0.16 co_s 0 co_r 0 co_ha NA  cw 2.1 Harvey Lake is 1ha lake upstream ~230m upstream of the crossing. </desc>
+</wpt>
+<wpt lat="49.290940049661771" lon="-114.749790478099072">
+  <name>1004603793 - cwf-082G.109-NA - Lodgepole Creek</name>
+  <desc>sub5 1.13 co_s 0 co_r 0 co_ha NA  cw 4.36 Ford (likely).  Road appears overgrown.</desc>
+</wpt>
+<wpt lat="49.885665892983525" lon="-114.913109270931031">
+  <name>1024734790 - cwf-082G.123-NA - Brûlé Creek</name>
+  <desc>sub5 8.9 co_s 0 co_r 0 co_ha NA  cw 8 Ford (likely)</desc>
+</wpt>
+<wpt lat="49.437375088756141" lon="-115.048106004920911">
+  <name>1004601582 - 2020_planning-082G.113-mod - NA</name>
+  <desc>sub5 0.06 co_s 0 co_r 0 co_ha NA  cw 4.17 Stream splits with numerous crossings upstream.</desc>
+</wpt>
+<wpt lat="49.009922906349352" lon="-114.516430477260386">
+  <name>50091 - 2020_planning-082G.104-mod - NA</name>
+  <desc>sub5 0.27 co_s 0 co_r 0 co_ha NA  cw 1.6 Good flow in photos. Smaller channel width. Not on mapped stream location</desc>
+</wpt>
+<wpt lat="49.921935819031418" lon="-114.908232426775157">
+  <name>197534 - 2020_field-082G.123-NA - Weigert Creek</name>
+  <desc>sub5 6.78 co_s 0 co_r 0 co_ha NA  cw 7.46 NA</desc>
+</wpt>
+<wpt lat="49.293529218179266" lon="-114.731982217107927">
+  <name>1004606370 - cwf-082G.109-NA - Lodgepole Creek</name>
+  <desc>sub5 1.13 co_s 0 co_r 0 co_ha NA  cw 3.1 Keen</desc>
+</wpt>
+<wpt lat="49.356471435198706" lon="-114.993865295289609">
+  <name>50185 - 2020_field-082G.108-NA - NA</name>
+  <desc>sub5 3.38 co_s 0 co_r 0 co_ha NA  cw 4.3 NA</desc>
+</wpt>
+<wpt lat="49.768105735017983" lon="-114.876078148588249">
+  <name>1004606751 - 2020_planning-082G.118-mod - Whiting Creek</name>
+  <desc>sub5 2.21 co_s 0 co_r 0 co_ha NA  cw 3.11 Railway.  Appears potentially backwatered.</desc>
+</wpt>
+<wpt lat="49.398820515874093" lon="-114.930296408600285">
+  <name>1004601704 - cwf-082G.108-NA - Morrissey Creek</name>
+  <desc>sub5 3.62 co_s 0 co_r 0 co_ha NA  cw 6.41 Ford</desc>
+</wpt>
+<wpt lat="49.890670772459238" lon="-114.774954267111823">
+  <name>1004601149 - 2020_planning-082G.124-high - NA</name>
+  <desc>sub5 0.03 co_s 0 co_r 0 co_ha NA  cw 3.03 WCT upstream.</desc>
+</wpt>
+<wpt lat="50.196004847938994" lon="-114.880384486739842">
+  <name>1004600762 - cwf-082J.103-NA - Fording River</name>
+  <desc>sub5 16.28 co_s 0 co_r 0 co_ha NA  cw 8.49 Recently replaced multiplate?</desc>
+</wpt>
+<wpt lat="49.526329383695902" lon="-115.04648912319675">
+  <name>1004600156 - 2020_planning-082G.113-mod - NA</name>
+  <desc>sub5 0.1 co_s 0 co_r 0 co_ha NA  cw 10 Industrial area with stream splitting 3 ways just upstream.</desc>
+</wpt>
+<wpt lat="49.892720702381006" lon="-114.890494742191237">
+  <name>197559 - 2020_field-082G.123-NA - Brûlé Creek</name>
+  <desc>sub5 9.51 co_s 0 co_r 0 co_ha NA  cw 12.5 NA</desc>
+</wpt>
+<wpt lat="50.230664083644136" lon="-114.863926321333381">
+  <name>1004604696 - cwf-082J.108-NA - Henretta Creek</name>
+  <desc>sub5 4.54 co_s 0 co_r 0 co_ha NA  cw 6.71 Ford.  Stream is not mapped correctly. Not there.</desc>
+</wpt>
+<wpt lat="49.84927682900198" lon="-114.767443210533543">
+  <name>62423 - 2020_field-082G.124-NA - Grave Creek</name>
+  <desc>sub5 0.74 co_s 0 co_r 0 co_ha NA  cw 8.1 NA</desc>
+</wpt>
+<wpt lat="49.791749753893292" lon="-114.785384062829721">
+  <name>1004602514 - cwf-082G.119-NA - Harmer Creek</name>
+  <desc>sub5 2.83 co_s 0 co_r 0 co_ha NA  cw 4.26 Doubt there is a crossing. Dams ~500m upstream</desc>
+</wpt>
+<wpt lat="49.381270318073838" lon="-115.012153114877165">
+  <name>1004606800 - 2020_planning-082G.108-mod - NA</name>
+  <desc>sub5 0.58 co_s 0 co_r 0 co_ha NA  cw 30 Large railway crossing structures in aerial photo. Suspect passable.</desc>
+</wpt>
+<wpt lat="49.112127603841849" lon="-114.694869549468606">
+  <name>50102 - 2020_planning-082G.104-mod - NA</name>
+  <desc>sub5 0 co_s 0 co_r 0 co_ha NA  cw 1.6 Good flow but very steep then extremely steep upstream.</desc>
+</wpt>
+<wpt lat="49.552084873565526" lon="-115.015486691985856">
+  <name>197542 - 2020_field-082G.113-NA - Hartley Creek</name>
+  <desc>sub5 4.58 co_s 0 co_r 0 co_ha NA  cw 4.56 NA</desc>
+</wpt>
+<wpt lat="49.633268831483072" lon="-114.948046046201767">
+  <name>1004607022 - cwf-082G.118-NA - McCool Creek</name>
+  <desc>sub5 2.25 co_s 0 co_r 0 co_ha NA  cw 5 Ford (likely)</desc>
+</wpt>
+<wpt lat="49.019917251591892" lon="-114.867760799521776">
+  <name>1004601995 - cwf-082G.103-NA - Rabbit Creek</name>
+  <desc>sub5 0.4 co_s 0 co_r 0 co_ha NA  cw 5.63 Ford (likely)</desc>
+</wpt>
+<wpt lat="49.944905004489591" lon="-114.947671944788681">
+  <name>1004602949 - cwf-082G.123-NA - Weigert Creek</name>
+  <desc>sub5 5.47 co_s 0 co_r 0 co_ha NA  cw 7.5 Deactivated (could confirm with FLNR)</desc>
+</wpt>
+<wpt lat="50.124834412754147" lon="-114.947117493811831">
+  <name>197555 - 2020_field-082J.103-NA - NA</name>
+  <desc>sub5 0.56 co_s 0 co_r 0 co_ha NA  cw 5.5 NA</desc>
+</wpt>
+<wpt lat="50.118927437560941" lon="-114.805336599325386">
+  <name>1004600533 - cwf-082J.103-NA - Chauncey Creek</name>
+  <desc>sub5 2.82 co_s 0 co_r 0 co_ha NA  cw 6.15 Ford</desc>
+</wpt>
+<wpt lat="50.011980346313621" lon="-114.944423233395014">
+  <name>1100002606 - cwf-082J.103-NA - Boivin Creek</name>
+  <desc>sub5 10.96 co_s 0 co_r 0 co_ha NA  cw 12.75 Dam. Elkford water intake?  </desc>
+</wpt>
+<wpt lat="49.677705169072951" lon="-114.783712532864286">
+  <name>1004606821 - 2020_planning-082G.119-mod - Erickson Creek</name>
+  <desc>sub5 6 co_s 0 co_r 0 co_ha NA  cw 6.11 Immediately adjacent to mine</desc>
+</wpt>
+<wpt lat="50.458352218220639" lon="-115.04359666455592">
+  <name>1024735443 - cwf-082J.113-NA - Abruzzi Creek</name>
+  <desc>sub5 5.69 co_s 0 co_r 0 co_ha NA  cw NA Ford (likely). Elk Lakes Park.  Waaay in there.</desc>
+</wpt>
+<wpt lat="49.138059469352747" lon="-114.749960747955399">
+  <name>1004606926 - cwf-082G.104-NA - Bighorn Creek</name>
+  <desc>sub5 0.83 co_s 0 co_r 0 co_ha NA  cw 3.85 Keen</desc>
+</wpt>
+<wpt lat="49.830911678544453" lon="-114.816167933794134">
+  <name>1100001086 - cwf-082G.123-NA - Harmer Creek</name>
+  <desc>sub5 4.05 co_s 0 co_r 0 co_ha NA  cw 7.2 Harmer Creek Dam. Elkview operations.</desc>
+</wpt>
+<wpt lat="49.348215278466782" lon="-114.958437907445457">
+  <name>50181 - 2020_field-082G.108-NA - NA</name>
+  <desc>sub5 0 co_s 0 co_r 0 co_ha NA  cw 3.3 NA</desc>
+</wpt>
+<wpt lat="49.564258866366124" lon="-114.993966999098561">
+  <name>1004600621 - 2020_planning-082G.113-mod - Quail Creek</name>
+  <desc>sub5 0.73 co_s 0 co_r 0 co_ha NA  cw 2.59 Private agricultural land.  Very low gradient so suspect passable at most flows.</desc>
+</wpt>
+<wpt lat="49.488411464375154" lon="-114.993536460103854">
+  <name>61504 - cwf-082G.113-NA - Coal Creek</name>
+  <desc>sub5 8.3 co_s 0 co_r 0 co_ha NA  cw 28.45 Bridge</desc>
+</wpt>
+<wpt lat="49.85012846818173" lon="-114.75370977176253">
+  <name>62425 - 2020_field-082G.124-NA - Grave Creek</name>
+  <desc>sub5 0.08 co_s 0 co_r 0 co_ha NA  cw 1.9 NA</desc>
+</wpt>
+<wpt lat="49.893140334709422" lon="-114.888901376720355">
+  <name>197533 - 2020_field-082G.123-NA - Brûlé Creek</name>
+  <desc>sub5 9.51 co_s 0 co_r 0 co_ha NA  cw 12.5 NA</desc>
+</wpt>
+<wpt lat="49.315921074174391" lon="-114.928640606367779">
+  <name>1004603480 - cwf-082G.108-NA - Bean Creek</name>
+  <desc>sub5 0 co_s 0 co_r 0 co_ha NA  cw 4.07 Bridge</desc>
+</wpt>
+<wpt lat="50.397826286450538" lon="-114.930732515253155">
+  <name>1004604006 - 2020_planning-082J.108-mod - Gardner Creek</name>
+  <desc>sub5 2.46 co_s 0 co_r 0 co_ha NA  cw 11.17 Primarily wetland type habitat upstream.</desc>
+</wpt>
+<wpt lat="49.289602010983643" lon="-114.719909081733618">
+  <name>1004606398 - cwf-082G.109-NA - Lodgepole Creek</name>
+  <desc>sub5 0.29 co_s 0 co_r 0 co_ha NA  cw 3.47 Keen</desc>
+</wpt>
+<wpt lat="49.004671900759249" lon="-114.514881088906733">
+  <name>50090 - 2020_planning-082G.104-mod - NA</name>
+  <desc>sub5 0.1 co_s 0 co_r 0 co_ha NA  cw 1.2 If this is the mainstem, habitat upstream at bridge appears mod to high value.</desc>
+</wpt>
+<wpt lat="49.459200470945653" lon="-114.667420723169556">
+  <name>50261 - 2020_field-082G.114-NA - NA</name>
+  <desc>sub5 0.22 co_s 0 co_r 0 co_ha NA  cw 4.6 NA</desc>
+</wpt>
+<wpt lat="50.456072162006016" lon="-115.039057565154067">
+  <name>1004603432 - cwf-082J.113-mod - Cadoma trib</name>
+  <desc>sub5 3.2 co_s 0 co_r 0 co_ha NA  cw 4.84 Ford (likely).  Elk Lakes Park. Waaay in there.  </desc>
+</wpt>
+<wpt lat="50.058826641099671" lon="-114.774633066616218">
+  <name>1004607449 - cwf-082J.104-NA - Ewin Trib</name>
+  <desc>sub5 2.6 co_s 0 co_r 0 co_ha NA  cw 1.8 Ford (likely)</desc>
+</wpt>
+<wpt lat="50.23039227486246" lon="-114.867062504679311">
+  <name>1004604677 - cwf-082J.108-NA - Henretta Creek</name>
+  <desc>sub5 4.54 co_s 0 co_r 0 co_ha NA  cw 6.71 Fording mine.  Massive looking structure.</desc>
+</wpt>
+<wpt lat="50.232889138573178" lon="-114.852130283057207">
+  <name>1024706614 - cwf-082J.108-NA - Henretta Creek</name>
+  <desc>sub5 4.37 co_s 0 co_r 0 co_ha NA  cw 6.68 Ford</desc>
+</wpt>
+<wpt lat="49.018734776699354" lon="-114.871533816527347">
+  <name>1004602359 - cwf-082G.103-NA - Rabbit Creek</name>
+  <desc>sub5 0.1 co_s 0 co_r 0 co_ha NA  cw 5.27 Ford (likely)</desc>
+</wpt>
+<wpt lat="49.013188715350203" lon="-114.781106528012842">
+  <name>1004605937 - cwf-082G.104-NA - Wigwam trib</name>
+  <desc>sub5 0.23 co_s 0 co_r 0 co_ha NA  cw 3.62 Keen</desc>
+</wpt>
+<wpt lat="49.161522963276376" lon="-114.492893670133554">
+  <name>1004607464 - 2020_planning-082G.104-mod - NA</name>
+  <desc>sub5 0.31 co_s 0 co_r 0 co_ha NA  cw 2.59 Culvert documented in FISS.  Survey sites upstream of crossing. </desc>
+</wpt>
+<wpt lat="49.438787970201865" lon="-114.802555873872421">
+  <name>1004607406 - 2020_planning-082G.113-high - NA</name>
+  <desc>sub5 1.26 co_s 0 co_r 0 co_ha NA  cw 4.2 WCT upsstream. Large habitat gain before next potential barrier. </desc>
+</wpt>
+<wpt lat="49.388204350945536" lon="-114.850414805164533">
+  <name>1004607567 - 2020_planning-082G.108-high - NA</name>
+  <desc>sub5 2.34 co_s 0 co_r 0 co_ha NA  cw 3.66 Fish upstream and down.</desc>
+</wpt>
+<wpt lat="49.081396921332065" lon="-114.532905326285558">
+  <name>50084 - 2020_planning-082G.104-high - NA</name>
+  <desc>sub5 0.43 co_s 0 co_r 0 co_ha NA  cw 2 Fish observed at outlet. Falls in FISS just downstream. Culvert appears passable to all life stages/species at time of survey but may be velocity barrier at higher flows.</desc>
+</wpt>
+<wpt lat="49.306535685876774" lon="-114.700321403296556">
+  <name>1004602564 - 2020_planning-082G.109-mod - NA</name>
+  <desc>sub5 0 co_s 0 co_r 0 co_ha NA  cw 5.1 Steeper habitat upstream.</desc>
+</wpt>
+<wpt lat="49.308569123280343" lon="-114.930660963625243">
+  <name>1004606347 - cwf-082G.108-NA - Bean Creek</name>
+  <desc>sub5 0 co_s 0 co_r 0 co_ha NA  cw 4.23 Keen</desc>
+</wpt>
+<wpt lat="49.137401880890856" lon="-114.295648527119639">
+  <name>1004602726 - 2020_planning-082G.105-mod - Flanders Brook</name>
+  <desc>sub5 0.45 co_s 0 co_r 0 co_ha NA  cw 5.6 Seems like road may be deactivated in aerial imagery. Recommend checking with local foresters.</desc>
+</wpt>
+<wpt lat="49.125282580913996" lon="-114.490293974345462">
+  <name>1004606597 - 2020_planning-082G.104-mod - NA</name>
+  <desc>sub5 0.34 co_s 0 co_r 0 co_ha NA  cw 2.19 Stream splits to mult iple channels just upstream with relatively small - low elevation watershed. </desc>
+</wpt>
+<wpt lat="49.298933066398845" lon="-114.553386605604956">
+  <name>1004607273 - 2020_planning-082G.109-mod - Packhorse Creek</name>
+  <desc>sub5 3.2 co_s 0 co_r 0 co_ha NA  cw 4.79 Road looks overgrown in aerial imagery. Suspect ford.</desc>
+</wpt>
+<wpt lat="49.15516293432043" lon="-114.493065141203147">
+  <name>50072 - 2020_planning-082G.104-mod - NA</name>
+  <desc>sub5 0.78 co_s 0 co_r 0 co_ha NA  cw 1.4 Small stream with good flow in photos. Assessment comments indicate good gravels. Very close to the mainstem of the Flathead.</desc>
+</wpt>
+<wpt lat="49.059869743666795" lon="-114.447373692643922">
+  <name>1004605458 - 2020_planning-082G.104-mod - NA</name>
+  <desc>sub5 1.02 co_s 0 co_r 0 co_ha NA  cw NA First order watershed. </desc>
+</wpt>
+<wpt lat="49.351797210742255" lon="-114.546910020876808">
+  <name>1004603725 - 2020_planning-082G.109-high - Pollock Creek</name>
+  <desc>sub5 1.28 co_s 0 co_r 0 co_ha NA  cw 4.21 Large stream.</desc>
+</wpt>
+<wpt lat="49.04979052962647" lon="-114.529804260386598">
+  <name>50085 - 2020_planning-082G.104-high - NA</name>
+  <desc>sub5 2.85 co_s 0 co_r 0 co_ha NA  cw 2.5 Larger channel width habitat rated as high value.</desc>
+</wpt>
+<wpt lat="49.383074928238138" lon="-114.71018808493838">
+  <name>1004600267 - 2020_planning-082G.109-high - NA</name>
+  <desc>sub5 2.71 co_s 0 co_r 0 co_ha NA  cw 3.4 Mottled Sculpin upstream. </desc>
+</wpt>
+<wpt lat="49.155196599953214" lon="-114.949862696101277">
+  <name>1004606129 - cwf-082G.103-NA - Wigwam trib</name>
+  <desc>sub5 2.47 co_s 0 co_r 0 co_ha NA  cw 5.68 Keen. Drains snowshoe Lake</desc>
+</wpt>
+<wpt lat="49.194130135451566" lon="-114.591521999756566">
+  <name>1004603597 - 2020_planning-082G.104-high - NA</name>
+  <desc>sub5 0.3 co_s 0 co_r 0 co_ha NA  cw 4.45 Step-pool system.  Relatively larger watershed. BT close by.</desc>
+</wpt>
+<wpt lat="49.307495348888814" lon="-114.569155427779634">
+  <name>62120 - 2020_planning-082G.109-mod - NA</name>
+  <desc>sub5 0.19 co_s 0 co_r 0 co_ha NA  cw 5.15 Small potential habitat gain but assessment comments indicate good rearing habitat and good potential fix candidate.</desc>
+</wpt>
+<wpt lat="49.356971244524139" lon="-114.647287521000081">
+  <name>1004601687 - 2020_planning-082G.109-high - NA</name>
+  <desc>sub5 0.64 co_s 0 co_r 0 co_ha NA  cw 2.97 Large amount of lower grade habitat modelled upstream.  Survey site from Kokannee 2001 (http://a100.gov.bc.ca/pub/acat/public/viewReport.do?reportId=29) upstream 600m.</desc>
+</wpt>
+<wpt lat="49.258670108203155" lon="-114.677840458904953">
+  <name>50063 - 2020_planning-082G.109-high - Kisoo Creek</name>
+  <desc>sub5 0.21 co_s 0 co_r 0 co_ha NA  cw 3.5 Relatively large channel width.  Good flow and hab value rated high.  </desc>
+</wpt>
+<wpt lat="49.048134349427656" lon="-114.530702501682171">
+  <name>50086 - 2020_planning-082G.104-mod - NA</name>
+  <desc>sub5 0.86 co_s 0 co_r 0 co_ha NA  cw 2.29 Appears passable at most flows. Rocky mountain sculpin nearby and their swim speeds could be a consideration.</desc>
+</wpt>
+<wpt lat="50.039133501185013" lon="-114.927734391414575">
+  <name>1004603040 - 2020_planning-082J.103-mod - NA</name>
+  <desc>sub5 1.37 co_s 0 co_r 0 co_ha NA  cw 3.13 Private land.</desc>
+</wpt>
+<wpt lat="49.286695742400724" lon="-114.906738049451135">
+  <name>1024733953 - cwf-082G.108-NA - Lodgepole Trib</name>
+  <desc>sub5 0.23 co_s 0 co_r 0 co_ha NA  cw 4.81 Bridge</desc>
+</wpt>
+<wpt lat="49.109312079158428" lon="-114.677291184013356">
+  <name>50100 - 2020_planning-082G.104-mod - NA</name>
+  <desc>sub5 0 co_s 0 co_r 0 co_ha NA  cw 2.7 Larger stream but fairly steep with relatively low habitat gain potential.</desc>
+</wpt>
+<wpt lat="49.157960797655697" lon="-114.761159533707726">
+  <name>1004603553 - cwf-082G.104-NA - Bighorn Creek</name>
+  <desc>sub5 3.79 co_s 0 co_r 0 co_ha NA  cw 5.39 Ford.</desc>
+</wpt>
+<wpt lat="49.487543104220215" lon="-115.094510708559454">
+  <name>50152 - 2020_field-082G.113-NA - NA</name>
+  <desc>sub5 0.36 co_s 0 co_r 0 co_ha NA  cw 2.6 NA</desc>
+</wpt>
+<wpt lat="49.946297046471074" lon="-114.948877231797482">
+  <name>1004606007 - cwf-082G.123-NA - Weigert Creek</name>
+  <desc>sub5 5.26 co_s 0 co_r 0 co_ha NA  cw 5.43 Removed (could confirm with FLNR)</desc>
+</wpt>
+<wpt lat="49.344525292428955" lon="-114.674633267310696">
+  <name>1004603904 - 2020_planning-082G.109-mod - NA</name>
+  <desc>sub5 0 co_s 0 co_r 0 co_ha NA  cw 1.9 Decent amount of habitat upstream in 5-8% slope class.  Road may be overgrown and/or deactivated by appearance of google satelite imagery.</desc>
+</wpt>
+<wpt lat="49.310233319429265" lon="-114.70171721845351">
+  <name>1004603908 - 2020_planning-082G.109-mod - McLatchie Creek</name>
+  <desc>sub5 0 co_s 0 co_r 0 co_ha NA  cw 2.66 Steeper habitat upstream.</desc>
+</wpt>
+<wpt lat="49.142985006541693" lon="-114.501975548351609">
+  <name>50073 - 2020_planning-082G.104-mod - NA</name>
+  <desc>sub5 0.01 co_s 0 co_r 0 co_ha NA  cw 2.1 Fairly steep. comments indicate &quot;WCT found upstream by Artech in 1995 according to Habitat Wizard&quot;</desc>
+</wpt>
+<wpt lat="49.444076572890886" lon="-114.831056877214095">
+  <name>1004602098 - 2020_planning-082G.113-mod - NA</name>
+  <desc>sub5 0.03 co_s 0 co_r 0 co_ha NA  cw 2.7 Crossing appears to be likely located 40m to north-east. Interior Reforestation sample site just upstream.  No ecocat report link.</desc>
+</wpt>
+<wpt lat="49.057215300607503" lon="-114.59254812287719">
+  <name>1004603477 - 2020_planning-082G.104-high - Burnham Creek</name>
+  <desc>sub5 1 co_s 0 co_r 0 co_ha NA  cw 5.23 Large watershed with WCT know upstream. Good candidate.</desc>
+</wpt>
+<wpt lat="49.207957923339158" lon="-114.516317893713534">
+  <name>1004602620 - 2020_planning-082G.109-mod - NA</name>
+  <desc>sub5 0.86 co_s 0 co_r 0 co_ha NA  cw 2.83 Kokanee 2001 (http://a100.gov.bc.ca/pub/acat/public/viewReport.do?reportId=29) report resident fish population does not have access to Flathead river at FISS site downstream.</desc>
+</wpt>
+<wpt lat="49.346149646049795" lon="-114.685239949043648">
+  <name>1004606501 - 2020_planning-082G.109-mod - NA</name>
+  <desc>sub5 0.02 co_s 0 co_r 0 co_ha NA  cw 2.59 Steeper stream.</desc>
+</wpt>
+<wpt lat="49.358116448169383" lon="-114.649215149745416">
+  <name>1004606506 - 2020_planning-082G.109-high - NA</name>
+  <desc>sub5 1.88 co_s 0 co_r 0 co_ha NA  cw 2.97 Extensive low gradient and wetland habitat upstream.</desc>
+</wpt>
+<wpt lat="49.132987910680882" lon="-114.480302511646883">
+  <name>50075 - 2020_planning-082G.104-mod - NA</name>
+  <desc>sub5 1.21 co_s 0 co_r 0 co_ha NA  cw 1.3 Smaller stream.</desc>
+</wpt>
+<wpt lat="49.203920285313032" lon="-114.976915602084262">
+  <name>1004602646 - cwf-082G.108-NA - Wigwam trib</name>
+  <desc>sub5 0.39 co_s 0 co_r 0 co_ha NA  cw 5.04 Looks like a tiny stream and suspect road is removed since the bridge across the Wigwam is not there</desc>
+</wpt>
+<wpt lat="49.306177149784226" lon="-114.935680215627713">
+  <name>1004605499 - cwf-082G.108-NA - Bean trib</name>
+  <desc>sub5 0.82 co_s 0 co_r 0 co_ha NA  cw 3.97 Keen</desc>
+</wpt>
+<wpt lat="49.383788332265993" lon="-114.705453290470317">
+  <name>1004600264 - 2020_planning-082G.109-mod - NA</name>
+  <desc>sub5 0.41 co_s 0 co_r 0 co_ha NA  cw 3.4 WCT upstream with modelled low gradient habitat.  Smaller watershed though.</desc>
+</wpt>
+<wpt lat="49.180648762025626" lon="-114.972842829536745">
+  <name>1004605216 - cwf-082G.103-NA - Wigwam trib</name>
+  <desc>sub5 0.09 co_s 0 co_r 0 co_ha NA  cw 4.39 Keen to check this out.</desc>
+</wpt>
+<wpt lat="49.057374611662915" lon="-114.446018914969997">
+  <name>1004605451 - 2020_planning-082G.104-high - Nettie Creek</name>
+  <desc>sub5 3.57 co_s 0 co_r 0 co_ha NA  cw 5.42 Phase 1 required. WCT known upstream. Connected to Proctor Lake which has recorded RB.  Large potential habitat gain.</desc>
+</wpt>
+<wpt lat="49.018473487548391" lon="-114.857360876430675">
+  <name>1004601993 - cwf-082G.103-NA - Rabbit Creek</name>
+  <desc>sub5 0.61 co_s 0 co_r 0 co_ha NA  cw 5.68 Ford (likely)</desc>
+</wpt>
+<wpt lat="49.262773590981404" lon="-114.69564583426488">
+  <name>50061 - 2020_planning-082G.109-high - Fuel Creek</name>
+  <desc>sub5 0.95 co_s 0 co_r 0 co_ha NA  cw 4.8 Large stream but dry during assessment.  WCT known upstream and wetted at 50151 (ford) located 600m upstream.</desc>
+</wpt>
+<wpt lat="49.282682967680465" lon="-114.791874008260834">
+  <name>1004603791 - cwf-082G.109-NA - Lodgepole Trib</name>
+  <desc>sub5 0.85 co_s 0 co_r 0 co_ha NA  cw 6 Ford (likely).  Road appears overgrown.</desc>
+</wpt>
+<wpt lat="49.268058264141217" lon="-114.817561065336307">
+  <name>1004606411 - cwf-082G.108-NA - Lodgepole Trib</name>
+  <desc>sub5 1.08 co_s 0 co_r 0 co_ha NA  cw 5.32 Ford (likely).</desc>
+</wpt>
+<wpt lat="49.058039489800805" lon="-114.831936011092907">
+  <name>1004605338 - cwf-082G.103-NA - Wigwam trib</name>
+  <desc>sub5 0 co_s 0 co_r 0 co_ha NA  cw 3.54 Max 360m to steep gradients</desc>
+</wpt>
+<wpt lat="49.789520930876257" lon="-114.785012652555167">
+  <name>1004601280 - cwf-082G.119-NA - Harmer Trib</name>
+  <desc>sub5 1.47 co_s 0 co_r 0 co_ha NA  cw 6.7 Ford (likely)</desc>
+</wpt>
+</gpx>
