@@ -7,8 +7,7 @@
 
 # name_project_name<- 'nupqu-elk-fish-passage'
 
-##we need to get our private data file moved over
-file.copy('C:/scripts/private_info.R', 'R/private_info.R')
+
 
 
 pagedown::chrome_print('safety_plan.Rmd')

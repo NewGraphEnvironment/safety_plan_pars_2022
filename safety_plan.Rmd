@@ -382,7 +382,7 @@ file.remove(files_to_delete)
 
 df <- table_sites %>%
   mutate(name = id) %>% 
-  mutate(shape = NA_character_,
+  mutate(shape = 'http://maps.google.com/mapfiles/kml/paddle/red-blank.png',
          color = NA_character_,
          label = NA_character_) %>% 
   dplyr::group_split(id)  %>% 
