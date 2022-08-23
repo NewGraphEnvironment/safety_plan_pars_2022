@@ -5,10 +5,6 @@
 ##change your VErsion #
 #######################################################################################
 
-# name_project_name<- 'nupqu-elk-fish-passage'
-
-
-
 
 pagedown::chrome_print('safety_plan.Rmd')
 
